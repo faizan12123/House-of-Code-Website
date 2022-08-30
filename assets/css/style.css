@@ -1509,12 +1509,14 @@ section {
 }
 
 #footer .copyright {
+  padding-top: .85%;
   float: left;
   color: #0f394c;
 }
 
 #footer .credits {
   float: right;
+  padding-top: .85%;
   font-size: 16px;
   color: #0f394c;
 }

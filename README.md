@@ -1,6 +1,6 @@
 # https://houseofcode.info
 
-## The official website for House of Code!
+## The Official Website for House of Code!
 
 Here is a full list of the services we provide:
 

@@ -18,7 +18,7 @@ Programming is a lengthy and difficult process to learn. To assist with this, Ho
 - Mock Interviews
 Interviewing can be a very strenuous task. At House of Code, we provide mock interviews to help members prepare for any upcoming computer science related job interviews.
 
-- Career Advisement
-Computer Science is a huge field with plenty of options. Although the variety of options is great, it can definitely be hard to navigate through all the different job openings and fields one can dive into.
+- Community Building
+Networking and building relationships play a big role in the tech industry. House of Code has built a great community of 130+ developers ranging from beginners to industry professionals to build relationships with one another and build their network!
 
 Visit our website to learn more!

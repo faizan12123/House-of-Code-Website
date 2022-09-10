@@ -12,8 +12,8 @@ Building personal projects is essential to becoming a better programmer and gett
 - Resume Reviews
 Creating a proper resume is a difficult task! House of Code allows members to publish their resumes to get reviewed by their peers and receive feedback on what changes need to be made.
 
-- 1: 1 or Group Tutoring
-Programming is a lengthy and difficult process to learn. To assist with this, House of Code provides its members with 1: 1 or group tutoring to help one another when one may be stuck on a problem.
+- 1: 1 or Group Programming Assistance
+Developing software is a lengthy and difficult process. To assist with this, House of Code provides its members with 1: 1 or group programming assistance when one may have trouble developing their program.
 
 - Mock Interviews
 Interviewing can be a very strenuous task. At House of Code, we provide mock interviews to help members prepare for any upcoming computer science related job interviews.
